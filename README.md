@@ -48,7 +48,7 @@ Then install the necessary packages:
 	
 Now run the server:
 	
-	node server
+	npm start
 	
 That's it! Now go to [http://localhost:8080](http://localhost:8080) and test it.
 
