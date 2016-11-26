@@ -1,6 +1,6 @@
 # FreeCodeCamp - Timestamp Microservice
 
-The first API project for the Back End Development Certification on [FreeCodeCamp](https://freecodecamp.com). It uses Nodejs, Expressjs and EJS to return, as a JSON object, the Unix timestamp and the natural representation of a date string passed to it.
+The first API project for the Back End Development Certification on [FreeCodeCamp](https://freecodecamp.com). It uses Nodejs and Expressjs to return, as a JSON object, the Unix timestamp and the natural representation of a date string passed to it.
 
 ## TOC
 
