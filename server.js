@@ -30,5 +30,5 @@ app.get('/:time', function(req, res, next) {
 });
 
 app.listen(process.env.PORT || 8080, function() {
-    console.log("Timestamp App listening on port "+ (process.env.PORT || 8080));
+    console.log("Timestamp App listening on port "+ String(process.env.PORT || 8080));
 });
