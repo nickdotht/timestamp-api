@@ -2,10 +2,12 @@
 
 The first API project for the Back End Development Certification on [FreeCodeCamp](https://freecodecamp.com). It uses Nodejs, Expressjs and EJS to return, as a JSON object, the Unix timestamp and the natural representation of a date string passed to it.
 
+## TOC
+
 - [Demo](#demo)
 - [Project Description](#project-description)
-	- [Example Usage:](#example-usage)
-	- [Example output:](#example-output)
+	- [Example Usage](#example-usage)
+	- [Example output](#example-output)
 - [Project installation](#project-installation)
 	- [Requirements](#requirements)
 	- [I want to test it locally](#i-want-to-test-it-locally)
