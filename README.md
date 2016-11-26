@@ -6,14 +6,15 @@ The first API project for the Back End Development Certification on [FreeCodeCam
 
 - [Demo](#demo)
 - [Project Description](#project-description)
-	- [Example Usage](#example-usage)
-	- [Example output](#example-output)
+	- [Example Usage:](#example-usage)
+	- [Example output:](#example-output)
 - [Project installation](#project-installation)
 	- [Requirements](#requirements)
 	- [I want to test it locally](#i-want-to-test-it-locally)
 	- [I want to try this project by myself](#i-want-to-try-this-project-by-myself)
 		- [What you need to know before starting](#what-you-need-to-know-before-starting)
 		- [What you'll learn from this](#what-youll-learn-from-this)
+- [Issues](#issues)
 
 ## Demo
 [Click here](https://timestamp-api-r4meau.herokuapp.com/) to see the demo hosted on Heroku.
