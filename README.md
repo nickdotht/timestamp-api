@@ -81,7 +81,7 @@ This is a beginner to intermediate Nodejs project so it's assuming you know how 
 * [handle basic get requests with Expressjs](https://expressjs.com/en/starter/basic-routing.html)
 * [handle basic templating with EJS](https://scotch.io/tutorials/use-ejs-to-template-your-node-application). You might like [how I do it](https://github.com/R4meau/timestamp-api/blob/master/server.js#L5) ;)
 
-Alrighty, if you're ready, read the [project description](#project-description) and start away, if you think you're still not ready, make sure you do more research on the same subjects.
+Alright, if you're ready, read the [project description](#project-description) and start away, if you think you're still not ready, make sure you do more research on the above subjects.
 
 #### What you'll learn from this
 
