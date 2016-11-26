@@ -90,4 +90,8 @@ So when you're done, I encourage you to sign up to [FreeCodeCamp](https://freeco
 
 Or [send it to me](mailto:nick@rameau.me), I don't mind at all.
 
+## Issues
+
+If you're having any problem with my code, [just leave an issue](https://github.com/R4meau/timestamp-api/issues) and I'll reply as soon as possible.
+
 Enjoy.
